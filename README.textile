@@ -1,0 +1,1 @@
+scraper for the list http://www.thingiverse.com/categories/
